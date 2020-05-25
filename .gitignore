@@ -197,3 +197,6 @@ FakesAssemblies/
 
 # Database
 db.sqlite3
+
+# Cache
+DjangoCrudApp/__pycache__
